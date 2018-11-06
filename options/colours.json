@@ -1,0 +1,14 @@
+{
+  "success": "0x21ff00",
+  "error": "0xff0000",
+  "default": "0xf94513",
+  "logjoin": "0x2cdb46",
+  "logleave": "0xdb2c2c",
+  "logcmduse": "0x0095ff",
+  "logerr": "0xcf2334",
+  "logcountpost": "0x41b9fa",
+  "logeval": "0x760094",
+  "logstop": "0xcf2334",
+  "logrestart": "0xf59314",
+  "logstart": "0x52a848"
+}

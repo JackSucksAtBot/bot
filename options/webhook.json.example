@@ -1,0 +1,15 @@
+{
+  "logid": "<insert your webhook's id here>",
+  "logtoken": "<insert your webhook's token here>",
+  "errid": "<insert your webhook's id here>",
+  "errtoken": "<insert your webhook's token here>",
+  "logjoin": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/154/inbox-tray_1f4e5.png",
+  "logleave": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/154/outbox-tray_1f4e4.png",
+  "logcmduse": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/154/incoming-envelope_1f4e8.png",
+  "logerr": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/154/police-cars-revolving-light_1f6a8.png",
+  "logcountpost": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/154/shield_1f6e1.png",
+  "logeval": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/154/spool-of-thread_1f9f5.png",
+  "logstop": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/154/heavy-black-heart_2764.png",
+  "logrestart": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/154/orange-heart_1f9e1.png",
+  "logstart": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/154/green-heart_1f49a.png"
+}

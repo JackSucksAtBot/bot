@@ -1,0 +1,34 @@
+{
+  "name": "jacksucksatbot",
+  "version": "3.1.3",
+  "description": "The official node.js/npm package of JackSucksAtBot (JackBot) a Discord Bot focused on the YouTuber JackSucksAtLife, with a bunch of other additional useful commands.",
+  "main": "index.js",
+  "dependencies": {
+    "dblapi.js": "^2.2.0",
+    "discord.js": "^11.3.2",
+    "jackbot-commando": "^0.2.3",
+    "path": "^0.12.7",
+    "pm2": "^3.0.3",
+    "relevant-urban": "^2.0.0",
+    "request": "^2.88.0",
+    "snekfetch": "^4.0.4",
+    "sqlite": "^2.9.2",
+    "unirest": "^0.5.1",
+    "weather-js": "^2.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node index.js",
+    "start": "pm2 index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jacksucksatbot/bot.git"
+  },
+  "author": "Cairo Mitchell-Acason - Cairo#4883",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/jacksucksatbot/bot/issues"
+  },
+  "homepage": "https://github.com/jacksucksatbot/bot#readme"
+}
